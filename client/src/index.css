@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+* {
+  font-family: "Outfit", sans-serif;
+}
+
+/* Define your custom theme colors */
+:root {
+  --color-primary: #8b5cf6; /* Violet-500 */
+  --color-primary-dull: #c4b5fd; /* Violet-300 */
+  --color-accent: #fb923c; /* Orange-400 */
+  --color-accent-dull: #fdba74; /* Orange-300 */
+}
